@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.8.0",
+    "antd": "^5.1.1",
+    "axios": "^1.2.1",
+    "cookie": "^0.5.0",
+    "jsonwebtoken": "^9.0.0",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
